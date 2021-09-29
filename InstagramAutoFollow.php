@@ -4,7 +4,7 @@ final class InstagramAutoFollow {
 
     protected $options;
 
-    const sessionId = ''; // fill this with your sessionId from instagram cookie
+    const sessionId = '44006994921:djqZL9qfNZZv3G:4'; // fill this with your sessionId from instagram cookie
     const INSTAGRAM_URL = 'https://www.instagram.com/';
 
     public function __construct() {
